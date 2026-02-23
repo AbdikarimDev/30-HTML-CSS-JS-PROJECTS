@@ -1,3 +1,5 @@
+“A collection of mini JavaScript projects built to master the fundamentals — no frameworks, just logic”
+
 1= Age Calculater-->9https://abdikarimdev.github.io/30-HTML-CSS-JS-PROJECTS/Age%20Calculater/index.html)
 
 2= Animated Search bar -->(https://AbdikarimDev.github.io/30-HTML-CSS-JS-PROJECTS/Animated%20Search%20bar/index.html)
